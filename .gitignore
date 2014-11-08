@@ -1,0 +1,13 @@
+dependency-reduced-pom.xml
+*.iml
+*~
+.idea/
+.classpath
+.settings/
+.project
+*.class
+target/
+.DS_Store
+.checkstyle
+.checkstyle-cachefile
+.gitreview
